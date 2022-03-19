@@ -1,0 +1,23 @@
+[33mcommit 8c440cea6276653a15909bf680e487b077007e70[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: mohit <ms0135048@gmail.com>
+Date:   Sat Mar 19 13:52:54 2022 +0530
+
+    added navbar and creayed page component
+
+[33mcommit d6c0e219cabeceda06d0cf6cb3c31f463333b40a[m
+Author: mohit <ms0135048@gmail.com>
+Date:   Sat Mar 19 13:08:44 2022 +0530
+
+    added react router
+
+[33mcommit 7321536e5bae8c217c152383d65961aa6f3926cf[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: mohit <ms0135048@gmail.com>
+Date:   Sat Mar 19 12:39:02 2022 +0530
+
+    new project
+
+[33mcommit 7c4da7ecf86b0fa6c7dde4f47f706820509486b9[m
+Author: mohit <ms0135048@gmail.com>
+Date:   Sat Mar 19 12:30:19 2022 +0530
+
+    Initialize project using Create React App
