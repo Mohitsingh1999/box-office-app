@@ -15,6 +15,7 @@ const Home = () => {
     });
   };
   const onInputChange = ev => {
+    console.log(ev.target.value);
     setInput(ev.target.value);
   };
   const onKeyDown = ev => {
@@ -25,7 +26,7 @@ const Home = () => {
   const onRadioChange = ev => {
     setSearchOption(ev.target.value);
   };
-  console.log(searchOption);
+  //console.log(searchOption);
   const renderResults = () => {
     if (results && results.length === 0) {
       return <div>No Results</div>;
@@ -46,8 +47,8 @@ const Home = () => {
         type="text"
         placeholder="Search for Something"
         onChange={onInputChange}
-        onKeyDown={onKeyDown}
         value={input}
+        onKeyDown={onKeyDown}
       />
       <div>
         <label htmlFor="shows-search">
